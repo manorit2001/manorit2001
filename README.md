@@ -10,7 +10,7 @@ My name is **Manorit Chawdhry**. I am currently in my 3rd year of B.Tech at Univ
 and I am willing to learn new things too.
 
 - 🔭 I’m currently working on Cyber Security Projects
-- 🌱 I’m currently learning privilege seperation of services for better security architecture
+- 🌱 I’m currently learning about working with Xen hypervisor and LibVMI
 - 👯 I’m looking to collaborate on any of the following 
   - Cyber Security Projects
   - Android Development Projects
